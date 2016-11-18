@@ -1,6 +1,6 @@
 #Latest version of node tested on.
 #FROM node:4.1.2-slim
-FROM alexellis2/node4.x-arm:v6
+FROM armhf/node:4.2-slim
 
 WORKDIR /app
 
